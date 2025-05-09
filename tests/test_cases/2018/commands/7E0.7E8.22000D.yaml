@@ -1,0 +1,16 @@
+command_id: 7E0.7E8.22000D
+can_id_format: ELEVEN_BIT
+extended_addressing_enabled: false
+test_cases:
+- response: 7E8 04 62 00 0D 26
+  expected_values:
+    BUICK_VSS: 38
+- response: 7E8 04 62 00 0D 30
+  expected_values:
+    BUICK_VSS: 48
+- response: 7E80462000D00
+  expected_values:
+    BUICK_VSS: 0
+- response: 7E80462000D4F
+  expected_values:
+    BUICK_VSS: 79
