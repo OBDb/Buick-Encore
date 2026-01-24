@@ -1,5 +1,18 @@
+references:
+  - "https://en.wikipedia.org/wiki/Buick_Encore"
+
 generations:
-  - name: "First Generation"
+  - name: "First Generation (2013-2016)"
     start_year: 2013
+    end_year: 2016
+    description: "The first-generation Buick Encore was a subcompact luxury crossover SUV based on the GM Gamma II platform shared with the Chevrolet Trax. It debuted at the 2012 North American International Auto Show and went on sale at the end of 2012. The initial models featured a 1.4L A14NET turbocharged four-cylinder engine rated at 128 HP coupled to a 6-speed automatic transmission, available in front-wheel drive or all-wheel drive. The Encore was offered in Base, Convenience, Leather, and Premium trim levels. The exterior featured a compact profile well-suited for urban environments, and the interior emphasized premium features unusual for its size class, including active noise cancellation and available leather seating."
+
+  - name: "First Generation (2017 Facelift)"
+    start_year: 2017
     end_year: 2022
-    description: "The Buick Encore was a subcompact luxury crossover SUV based on the GM Gamma II platform shared with the Chevrolet Trax. As one of the first entries in the then-emerging subcompact luxury crossover segment, the Encore featured a tall profile with compact exterior dimensions, making it well-suited for urban environments. Powered by a 1.4L turbocharged four-cylinder engine initially producing 138 HP (later increased to 153 HP in 2019), it was available in front-wheel or all-wheel drive configurations paired with a six-speed automatic transmission. The interior emphasized premium features unusual for its size class, including active noise cancellation, a soft-touch dashboard, and available leather seating. A significant refresh in 2017 updated the exterior styling with a new winged grille design, revised headlights, and interior improvements including an updated infotainment system with Apple CarPlay and Android Auto compatibility. The Encore helped establish Buick in a younger demographic and became one of the brand's best-selling models in the U.S. market before being effectively replaced by the larger Encore GX."
+    description: "For 2017, the Buick Encore received a significant refresh that updated exterior styling with revised headlights and bumpers, LED tail lights, and a new VentiPorts design. The interior was redesigned with a revised dash and gauge cluster featuring a 4.2-inch information screen, revised center stack, and updated infotainment system with an 8-inch frameless screen with Apple CarPlay and Android Auto compatibility. The 2016 model year introduced the more powerful B14XFT 1.4L Ecotec turbo engine rated at 153 HP, which became available across the lineup during this facelift period. Starting with the 2020 model year, all trims except the Preferred were discontinued as GM introduced the larger Encore GX. The first-generation Encore remained in production through 2022, when it was discontinued."
+
+  - name: "Second Generation"
+    start_year: 2020
+    end_year: 2022
+    description: "The second-generation Buick Encore was revealed at the 2019 Shanghai Auto Show and available for model years 2020-2022. Built on the GM GEM platform (intended for emerging markets), the second generation featured a new design with 1.0L B10XFT 3-cylinder turbo (92 HP) or 1.3L L3T 3-cylinder turbo (121 HP) engines with either a 6-speed automatic or CVT transmission. The second-generation Encore was not exported to North America and was sold exclusively in China, where it replaced the first-generation model. As of July 2023, the Encore is no longer listed on Buick China's website."
