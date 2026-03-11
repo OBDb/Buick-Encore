@@ -1,14 +1,11 @@
 command_id: 7E0.2211A1
 test_cases:
 - expected_values:
-    BUICK_RUNTM: 28
-  response: 7E8056211A1001C
+    BUICK_RUNTM: 21
+  response: 7E8056211A10015
 - expected_values:
-    BUICK_RUNTM: 51
-  response: 7E8056211A10033
+    BUICK_RUNTM: 217
+  response: 7E8056211A100D9
 - expected_values:
-    BUICK_RUNTM: 90
-  response: 7E8056211A1005A
-- expected_values:
-    BUICK_RUNTM: 187
-  response: 7E8056211A100BB
+    BUICK_RUNTM: 258
+  response: 7E8056211A10102
