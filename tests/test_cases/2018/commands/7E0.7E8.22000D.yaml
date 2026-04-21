@@ -10,6 +10,11 @@ test_cases:
     BUICK_VSS: 0
   response: 7E80462000D00
 - expected_values:
+    BUICK_VSS: 0
+  response: |-
+    7E80462000D00
+    7E8056224720000
+- expected_values:
     BUICK_VSS: 5
   response: |-
     7E80462000D05
