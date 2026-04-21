@@ -25,5 +25,5 @@ test_cases:
     7E80462000D06
     7E80462247800
 - expected_values:
-    BUICK_VSS: 137
-  response: 7E80462000D89
+    BUICK_VSS: 138
+  response: 7E80462000D8A
