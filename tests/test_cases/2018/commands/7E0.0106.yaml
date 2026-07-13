@@ -9,6 +9,11 @@ test_cases:
     7E80341067A
     7E8046200058D
 - expected_values:
+    SHRTFT1: 0
+  response: |-
+    7E803410680
+    7E8056224750000
+- expected_values:
     SHRTFT1: 0.78125
   response: |-
     7E803410681
