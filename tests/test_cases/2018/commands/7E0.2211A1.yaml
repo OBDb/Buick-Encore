@@ -39,6 +39,11 @@ test_cases:
     7E8056211A10022
     7E80462247800
 - expected_values:
+    BUICK_RUNTM: 38
+  response: |-
+    7E8056211A10026
+    7E8035AA000
+- expected_values:
     BUICK_RUNTM: 53
   response: |-
     7E8056211A10035
