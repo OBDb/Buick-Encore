@@ -17,12 +17,12 @@ test_cases:
     BUICK_RUNTM: 20
   response: |-
     7E8056211A10014
-    7E80762346D00000000
-- expected_values:
-    BUICK_RUNTM: 21
-  response: |-
-    7E8056211A10015
     7E80462247628
+- expected_values:
+    BUICK_RUNTM: 20
+  response: |-
+    7E8056211A10014
+    7E80762346D00000000
 - expected_values:
     BUICK_RUNTM: 21
   response: |-
