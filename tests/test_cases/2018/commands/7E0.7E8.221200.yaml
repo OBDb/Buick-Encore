@@ -3,3 +3,9 @@ test_cases:
 - expected_values:
     BUICK_TOTAL_MISFIRE: 0
   response: '7E80462120000'
+- expected_values:
+    BUICK_TOTAL_MISFIRE: 4
+  response: '7E80462120004'
+- expected_values:
+    BUICK_TOTAL_MISFIRE: 12
+  response: 7E8046212000C
