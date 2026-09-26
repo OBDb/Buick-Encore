@@ -4,8 +4,29 @@ test_cases:
     BUICK_BP_ACT_V2: 0
   response: 7E8056220E30000
 - expected_values:
+    BUICK_BP_ACT_V2: 0.12
+  response: 7E8056220E3000C
+- expected_values:
     BUICK_BP_ACT_V2: 0.33
   response: 7E8056220E30021
 - expected_values:
+    BUICK_BP_ACT_V2: 0.42
+  response: 7E8056220E3002A
+- expected_values:
+    BUICK_BP_ACT_V2: 0.67
+  response: 7E8056220E30043
+- expected_values:
+    BUICK_BP_ACT_V2: 0.74
+  response: 7E8056220E3004A
+- expected_values:
+    BUICK_BP_ACT_V2: 0.78
+  response: 7E8056220E3004E
+- expected_values:
     BUICK_BP_ACT_V2: 1.33
   response: 7E8056220E30085
+- expected_values:
+    BUICK_BP_ACT_V2: 1.52
+  response: 7E8056220E30098
+- expected_values:
+    BUICK_BP_ACT_V2: 4.48
+  response: 7E8056220E301C0
