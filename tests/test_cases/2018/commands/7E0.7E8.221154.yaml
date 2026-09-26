@@ -4,17 +4,5 @@ test_cases:
     BUICK_EOT_CALC: 33
   response: '7E80462115449'
 - expected_values:
-    BUICK_EOT_CALC: 37
-  response: 7E8046211544D
-- expected_values:
-    BUICK_EOT_CALC: 47
-  response: '7E80462115457'
-- expected_values:
-    BUICK_EOT_CALC: 56
-  response: '7E80462115460'
-- expected_values:
-    BUICK_EOT_CALC: 67
-  response: 7E8046211546B
-- expected_values:
-    BUICK_EOT_CALC: 71
-  response: 7E8046211546F
+    BUICK_EOT_CALC: 103
+  response: 7E8046211548F
