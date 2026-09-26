@@ -1,0 +1,14 @@
+command_id: 7E2.7EA.221940
+test_cases:
+- expected_values:
+    BUICK_ATF_T: 26
+  response: 7EA0462194042
+- expected_values:
+    BUICK_ATF_T: 29
+  response: 7EA0462194045
+- expected_values:
+    BUICK_ATF_T: 32
+  response: 7EA0462194048
+- expected_values:
+    BUICK_ATF_T: 35
+  response: 7EA046219404B
