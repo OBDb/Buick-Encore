@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.2220E3|fc=1
+test_cases:
+- expected_values:
+    BUICK_BP_ACT_V2: 0
+  response: 7E8056220E30000
+- expected_values:
+    BUICK_BP_ACT_V2: 0.33
+  response: 7E8056220E30021
+- expected_values:
+    BUICK_BP_ACT_V2: 1.33
+  response: 7E8056220E30085
