@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.2212C3
+test_cases:
+- expected_values:
+    BUICK_INJECTOR_DUTY_CYCLE_BANK_1: 1.38
+  response: 7E8056212C3005C
+- expected_values:
+    BUICK_INJECTOR_DUTY_CYCLE_BANK_1: 2.835
+  response: 7E8056212C300BD
+- expected_values:
+    BUICK_INJECTOR_DUTY_CYCLE_BANK_1: 3.78
+  response: 7E8056212C300FC
+- expected_values:
+    BUICK_INJECTOR_DUTY_CYCLE_BANK_1: 4.575
+  response: 7E8056212C30131
+- expected_values:
+    BUICK_INJECTOR_DUTY_CYCLE_BANK_1: 6.09
+  response: 7E8056212C30196
+- expected_values:
+    BUICK_INJECTOR_DUTY_CYCLE_BANK_1: 6.915
+  response: 7E8056212C301CD
