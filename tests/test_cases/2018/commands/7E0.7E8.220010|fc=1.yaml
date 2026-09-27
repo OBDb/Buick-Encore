@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.220010|fc=1
 test_cases:
 - expected_values:
-    BUICK_MAF: 2.65
-  response: '7E8056200100109'
+    BUICK_MAF: 0
+  response: '7E8056200100000'
 - expected_values:
     BUICK_MAF: 4.71
   response: 7E80562001001D7
