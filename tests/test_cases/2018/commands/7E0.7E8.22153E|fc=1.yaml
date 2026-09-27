@@ -4,3 +4,7 @@ test_cases:
     BUICK_EOT_ALT: 0
     BUICK_EOT_DA11: 0
   response: 7E80462153E00
+- expected_values:
+    BUICK_EOT_ALT: 0
+    BUICK_EOT_DA11: 0
+  response: 7E80462153E28
