@@ -1,8 +1,8 @@
 command_id: 7E2.7EA.221991|fc=1
 test_cases:
 - expected_values:
-    BUICK_TC_SLIP_VSS: 4.125
-  response: 7EA056219910021
+    BUICK_TC_SLIP_VSS: 0
+  response: 7EA056219910000
 - expected_values:
     BUICK_TC_SLIP_VSS: 55.375
   response: 7EA0562199101BB
