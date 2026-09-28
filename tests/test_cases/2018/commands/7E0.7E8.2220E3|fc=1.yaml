@@ -4,5 +4,8 @@ test_cases:
     BUICK_BP_ACT: 0
   response: 7E8056220E30000
 - expected_values:
+    BUICK_BP_ACT: 4.66
+  response: 7E8056220E301D2
+- expected_values:
     BUICK_BP_ACT: 25.06
   response: 7E8056220E309CA
