@@ -3,3 +3,12 @@ test_cases:
 - expected_values:
     BUICK_EGR_V: 0
   response: 7E80462114B00
+- expected_values:
+    BUICK_EGR_V: 0.7451
+  response: 7E80462114B26
+- expected_values:
+    BUICK_EGR_V: 1.47059
+  response: 7E80462114B4B
+- expected_values:
+    BUICK_EGR_V: 1.4902
+  response: 7E80462114B4C

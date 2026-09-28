@@ -10,8 +10,17 @@ test_cases:
     BUICK_HEATED_OXYGEN_SENS: 54
   response: '7E80462114536'
 - expected_values:
+    BUICK_HEATED_OXYGEN_SENS: 109
+  response: 7E8046211456D
+- expected_values:
+    BUICK_HEATED_OXYGEN_SENS: 175
+  response: 7E804621145AF
+- expected_values:
     BUICK_HEATED_OXYGEN_SENS: 182
   response: 7E804621145B6
+- expected_values:
+    BUICK_HEATED_OXYGEN_SENS: 194
+  response: 7E804621145C2
 - expected_values:
     BUICK_HEATED_OXYGEN_SENS: 206
   response: 7E804621145CE
