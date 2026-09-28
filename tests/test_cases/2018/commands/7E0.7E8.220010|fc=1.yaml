@@ -7,5 +7,5 @@ test_cases:
     BUICK_MAF: 2.44
   response: 7E80562001000F4
 - expected_values:
-    BUICK_MAF: 30.91
-  response: 7E8056200100C13
+    BUICK_MAF: 35.39
+  response: 7E8056200100DD3

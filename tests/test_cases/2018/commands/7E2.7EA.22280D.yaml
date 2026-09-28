@@ -15,3 +15,12 @@ test_cases:
 - expected_values:
     BUICK_ATF_T_VAR_6: 37
   response: 7EA0462280D4D
+- expected_values:
+    BUICK_ATF_T_VAR_6: 44
+  response: 7EA0462280D54
+- expected_values:
+    BUICK_ATF_T_VAR_6: 47
+  response: 7EA0462280D57
+- expected_values:
+    BUICK_ATF_T_VAR_6: 49
+  response: 7EA0462280D59
