@@ -1,0 +1,11 @@
+command_id: 7E0.7E8.223201
+test_cases:
+- expected_values:
+    BUICK_CURRENT_GEAR_VAR_3: 2
+  response: '7E80462320102'
+- expected_values:
+    BUICK_CURRENT_GEAR_VAR_3: 3
+  response: '7E80462320103'
+- expected_values:
+    BUICK_CURRENT_GEAR_VAR_3: 5
+  response: '7E80462320105'

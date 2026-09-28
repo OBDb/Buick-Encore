@@ -1,0 +1,17 @@
+command_id: 7E0.7E8.221145
+test_cases:
+- expected_values:
+    BUICK_HEATED_OXYGEN_SENS: 0
+  response: '7E80462114500'
+- expected_values:
+    BUICK_HEATED_OXYGEN_SENS: 19
+  response: '7E80462114513'
+- expected_values:
+    BUICK_HEATED_OXYGEN_SENS: 54
+  response: '7E80462114536'
+- expected_values:
+    BUICK_HEATED_OXYGEN_SENS: 182
+  response: 7E804621145B6
+- expected_values:
+    BUICK_HEATED_OXYGEN_SENS: 206
+  response: 7E804621145CE
