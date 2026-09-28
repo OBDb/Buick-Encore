@@ -13,5 +13,14 @@ test_cases:
     BUICK_ATF_T_VAR_1: 32
   response: '7E80462194048'
 - expected_values:
+    BUICK_ATF_T_VAR_1: 33
+  response: '7E80462194049'
+- expected_values:
     BUICK_ATF_T_VAR_1: 34
   response: 7E8046219404A
+- expected_values:
+    BUICK_ATF_T_VAR_1: 35
+  response: 7E8046219404B
+- expected_values:
+    BUICK_ATF_T_VAR_1: 36
+  response: 7E8046219404C
