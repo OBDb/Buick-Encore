@@ -1,0 +1,11 @@
+command_id: 7E2.7EA.22280D
+test_cases:
+- expected_values:
+    BUICK_ATF_T_VAR_6: 27
+  response: 7EA0462280D43
+- expected_values:
+    BUICK_ATF_T_VAR_6: 29
+  response: 7EA0462280D45
+- expected_values:
+    BUICK_ATF_T_VAR_6: 32
+  response: 7EA0462280D48
