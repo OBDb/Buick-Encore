@@ -4,5 +4,11 @@ test_cases:
     BUICK_TRANS_ISS: 177.25
   response: 7EA0562194102C5
 - expected_values:
+    BUICK_TRANS_ISS: 1406.5
+  response: 7EA0562194115FA
+- expected_values:
+    BUICK_TRANS_ISS: 2939
+  response: 7EA056219412DEC
+- expected_values:
     BUICK_TRANS_ISS: 3261
   response: 7EA0562194132F4

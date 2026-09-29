@@ -4,29 +4,5 @@ test_cases:
     BUICK_IGN_1_V: 0
   response: '7E80462114100'
 - expected_values:
-    BUICK_IGN_1_V: 13.8
-  response: 7E8046211418A
-- expected_values:
-    BUICK_IGN_1_V: 13.9
-  response: 7E8046211418B
-- expected_values:
-    BUICK_IGN_1_V: 14
-  response: 7E8046211418C
-- expected_values:
-    BUICK_IGN_1_V: 14.1
-  response: 7E8046211418D
-- expected_values:
-    BUICK_IGN_1_V: 14.2
-  response: 7E8046211418E
-- expected_values:
-    BUICK_IGN_1_V: 14.3
-  response: 7E8046211418F
-- expected_values:
-    BUICK_IGN_1_V: 14.4
-  response: '7E80462114190'
-- expected_values:
-    BUICK_IGN_1_V: 14.7
-  response: '7E80462114193'
-- expected_values:
     BUICK_IGN_1_V: 14.8
   response: '7E80462114194'

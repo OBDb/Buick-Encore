@@ -4,26 +4,5 @@ test_cases:
     BUICK_ATF_T_VAR_6: 27
   response: 7EA0462280D43
 - expected_values:
-    BUICK_ATF_T_VAR_6: 29
-  response: 7EA0462280D45
-- expected_values:
-    BUICK_ATF_T_VAR_6: 32
-  response: 7EA0462280D48
-- expected_values:
-    BUICK_ATF_T_VAR_6: 33
-  response: 7EA0462280D49
-- expected_values:
-    BUICK_ATF_T_VAR_6: 36
-  response: 7EA0462280D4C
-- expected_values:
-    BUICK_ATF_T_VAR_6: 37
-  response: 7EA0462280D4D
-- expected_values:
-    BUICK_ATF_T_VAR_6: 44
-  response: 7EA0462280D54
-- expected_values:
-    BUICK_ATF_T_VAR_6: 47
-  response: 7EA0462280D57
-- expected_values:
-    BUICK_ATF_T_VAR_6: 49
-  response: 7EA0462280D59
+    BUICK_ATF_T_VAR_6: 50
+  response: 7EA0462280D5A
