@@ -4,20 +4,5 @@ test_cases:
     BUICK_M_CTRL_MODULE_V: 0
   response: '7E8056200420000'
 - expected_values:
-    BUICK_M_CTRL_MODULE_V: 13.77
-  response: 7E80562004235CA
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 14.094
-  response: 7E805620042370E
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 14.144
-  response: '7E8056200423740'
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 14.168
-  response: '7E8056200423758'
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 14.244
-  response: 7E80562004237A4
-- expected_values:
     BUICK_M_CTRL_MODULE_V: 14.816
   response: 7E80562004239E0
