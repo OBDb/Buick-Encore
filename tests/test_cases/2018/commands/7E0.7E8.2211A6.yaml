@@ -4,29 +4,5 @@ test_cases:
     BUICK_KNOCK_RETARD: 0
   response: 7E8046211A600
 - expected_values:
-    BUICK_KNOCK_RETARD: 0.88
-  response: 7E8046211A604
-- expected_values:
-    BUICK_KNOCK_RETARD: 1.32
-  response: 7E8046211A606
-- expected_values:
-    BUICK_KNOCK_RETARD: 1.54
-  response: 7E8046211A607
-- expected_values:
-    BUICK_KNOCK_RETARD: 2.42
-  response: 7E8046211A60B
-- expected_values:
-    BUICK_KNOCK_RETARD: 2.64
-  response: 7E8046211A60C
-- expected_values:
-    BUICK_KNOCK_RETARD: 2.86
-  response: 7E8046211A60D
-- expected_values:
-    BUICK_KNOCK_RETARD: 3.74
-  response: 7E8046211A611
-- expected_values:
-    BUICK_KNOCK_RETARD: 5.28
-  response: 7E8046211A618
-- expected_values:
-    BUICK_KNOCK_RETARD: 6.16
-  response: 7E8046211A61C
+    BUICK_KNOCK_RETARD: 7.92
+  response: 7E8046211A624

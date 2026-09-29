@@ -1,0 +1,29 @@
+command_id: 7E2.7EA.221991|fc=1
+test_cases:
+- expected_values:
+    BUICK_TC_SLIP_VSS: 19.75
+  response: 7EA05621991009E
+- expected_values:
+    BUICK_TC_SLIP_VSS: 19.875
+  response: 7EA05621991009F
+- expected_values:
+    BUICK_TC_SLIP_VSS: 24
+  response: 7EA0562199100C0
+- expected_values:
+    BUICK_TC_SLIP_VSS: 42.625
+  response: 7EA056219910155
+- expected_values:
+    BUICK_TC_SLIP_VSS: 191.625
+  response: 7EA0562199105FD
+- expected_values:
+    BUICK_TC_SLIP_VSS: 228.875
+  response: 7EA056219910727
+- expected_values:
+    BUICK_TC_SLIP_VSS: 466
+  response: 7EA056219910E90
+- expected_values:
+    BUICK_TC_SLIP_VSS: -1.375
+  response: 7EA05621991FFF5
+- expected_values:
+    BUICK_TC_SLIP_VSS: -1
+  response: 7EA05621991FFF8

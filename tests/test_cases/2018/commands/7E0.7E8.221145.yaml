@@ -4,29 +4,5 @@ test_cases:
     BUICK_HEATED_OXYGEN_SENS: 0
   response: '7E80462114500'
 - expected_values:
-    BUICK_HEATED_OXYGEN_SENS: 14
-  response: 7E8046211450E
-- expected_values:
-    BUICK_HEATED_OXYGEN_SENS: 19
-  response: '7E80462114513'
-- expected_values:
-    BUICK_HEATED_OXYGEN_SENS: 54
-  response: '7E80462114536'
-- expected_values:
-    BUICK_HEATED_OXYGEN_SENS: 109
-  response: 7E8046211456D
-- expected_values:
-    BUICK_HEATED_OXYGEN_SENS: 175
-  response: 7E804621145AF
-- expected_values:
-    BUICK_HEATED_OXYGEN_SENS: 182
-  response: 7E804621145B6
-- expected_values:
-    BUICK_HEATED_OXYGEN_SENS: 186
-  response: 7E804621145BA
-- expected_values:
-    BUICK_HEATED_OXYGEN_SENS: 194
-  response: 7E804621145C2
-- expected_values:
     BUICK_HEATED_OXYGEN_SENS: 206
   response: 7E804621145CE
