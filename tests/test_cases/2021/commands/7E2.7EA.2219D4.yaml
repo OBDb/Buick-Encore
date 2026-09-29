@@ -4,8 +4,8 @@ test_cases:
     BUICK_CLU_SLIP_C3_RING: 0
   response: 7EA056219D40000
 - expected_values:
-    BUICK_CLU_SLIP_C3_RING: 1593.25
-  response: 7EA056219D418E5
+    BUICK_CLU_SLIP_C3_RING: 3326
+  response: 7EA056219D433F8
 - expected_values:
-    BUICK_CLU_SLIP_C3_RING: 3981.75
-  response: 7EA056219D43E37
+    BUICK_CLU_SLIP_C3_RING: 4719
+  response: 7EA056219D449BC
