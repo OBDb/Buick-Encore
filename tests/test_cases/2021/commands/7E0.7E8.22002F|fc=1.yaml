@@ -4,26 +4,5 @@ test_cases:
     BUICK_FLI: 16.47059
   response: 7E80462002F2A
 - expected_values:
-    BUICK_FLI: 18.03922
-  response: 7E80462002F2E
-- expected_values:
-    BUICK_FLI: 18.82353
-  response: 7E80462002F30
-- expected_values:
-    BUICK_FLI: 19.21569
-  response: 7E80462002F31
-- expected_values:
-    BUICK_FLI: 19.60784
-  response: 7E80462002F32
-- expected_values:
-    BUICK_FLI: 20
-  response: 7E80462002F33
-- expected_values:
-    BUICK_FLI: 20.39216
-  response: 7E80462002F34
-- expected_values:
-    BUICK_FLI: 20.78431
-  response: 7E80462002F35
-- expected_values:
-    BUICK_FLI: 21.96078
-  response: 7E80462002F38
+    BUICK_FLI: 22.7451
+  response: 7E80462002F3A
