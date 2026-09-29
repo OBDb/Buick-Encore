@@ -1,6 +1,12 @@
 command_id: 7E2.7EA.221940
 test_cases:
 - expected_values:
+    BUICK_ATF_T: 69
+  response: 7EA046219406D
+- expected_values:
+    BUICK_ATF_T: 70
+  response: 7EA046219406E
+- expected_values:
     BUICK_ATF_T: 79
   response: 7EA0462194077
 - expected_values:
