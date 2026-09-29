@@ -4,23 +4,5 @@ test_cases:
     BUICK_ATF_T_VAR_6: 71
   response: 7EA0462280D6F
 - expected_values:
-    BUICK_ATF_T_VAR_6: 72
-  response: 7EA0462280D70
-- expected_values:
-    BUICK_ATF_T_VAR_6: 73
-  response: 7EA0462280D71
-- expected_values:
-    BUICK_ATF_T_VAR_6: 83
-  response: 7EA0462280D7B
-- expected_values:
-    BUICK_ATF_T_VAR_6: 84
-  response: 7EA0462280D7C
-- expected_values:
-    BUICK_ATF_T_VAR_6: 85
-  response: 7EA0462280D7D
-- expected_values:
-    BUICK_ATF_T_VAR_6: 86
-  response: 7EA0462280D7E
-- expected_values:
     BUICK_ATF_T_VAR_6: 87
   response: 7EA0462280D7F

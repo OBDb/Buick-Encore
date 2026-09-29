@@ -13,5 +13,11 @@ test_cases:
     BUICK_TOTAL_KNOCK_RETARD: 4.05
   response: 7E8046212D909
 - expected_values:
+    BUICK_TOTAL_KNOCK_RETARD: 4.95
+  response: 7E8046212D90B
+- expected_values:
     BUICK_TOTAL_KNOCK_RETARD: 6.75
   response: 7E8046212D90F
+- expected_values:
+    BUICK_TOTAL_KNOCK_RETARD: 7.65
+  response: 7E8046212D911
