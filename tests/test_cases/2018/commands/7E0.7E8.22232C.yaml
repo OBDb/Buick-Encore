@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.22232C
+test_cases:
+- expected_values:
+    BUICK_AIR_TEMP_AMBIENT_2: -40
+  response: 7E80462232C00
+- expected_values:
+    BUICK_AIR_TEMP_AMBIENT_2: 13
+  response: 7E80462232C35
+- expected_values:
+    BUICK_AIR_TEMP_AMBIENT_2: 33
+  response: 7E80462232C49
+- expected_values:
+    BUICK_AIR_TEMP_AMBIENT_2: 57
+  response: 7E80462232C61

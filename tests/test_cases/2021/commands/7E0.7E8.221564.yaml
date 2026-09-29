@@ -1,0 +1,10 @@
+command_id: 7E0.7E8.221564
+test_cases:
+- expected_values:
+    BUICK_AC_HIGH_SIDE_P: 141.4
+    BUICK_CABIN_AC_HIGH_SIDE_P: 70
+  response: '7E80462156446'
+- expected_values:
+    BUICK_AC_HIGH_SIDE_P: 260.58
+    BUICK_CABIN_AC_HIGH_SIDE_P: 129
+  response: '7E80462156481'

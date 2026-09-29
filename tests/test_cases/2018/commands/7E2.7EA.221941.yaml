@@ -1,0 +1,8 @@
+command_id: 7E2.7EA.221941
+test_cases:
+- expected_values:
+    BUICK_TRANS_ISS: 177.25
+  response: 7EA0562194102C5
+- expected_values:
+    BUICK_TRANS_ISS: 3261
+  response: 7EA0562194132F4

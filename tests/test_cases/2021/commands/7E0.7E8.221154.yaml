@@ -1,0 +1,20 @@
+command_id: 7E0.7E8.221154
+test_cases:
+- expected_values:
+    BUICK_EOT_CALC: 101
+  response: 7E8046211548D
+- expected_values:
+    BUICK_EOT_CALC: 102
+  response: 7E8046211548E
+- expected_values:
+    BUICK_EOT_CALC: 103
+  response: 7E8046211548F
+- expected_values:
+    BUICK_EOT_CALC: 104
+  response: '7E80462115490'
+- expected_values:
+    BUICK_EOT_CALC: 105
+  response: '7E80462115491'
+- expected_values:
+    BUICK_EOT_CALC: 106
+  response: '7E80462115492'
