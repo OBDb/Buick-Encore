@@ -18,3 +18,15 @@ test_cases:
 - expected_values:
     BUICK_CABIN_AC_HIGH_SIDE_V: 2.24
   response: '7E80462114470'
+- expected_values:
+    BUICK_CABIN_AC_HIGH_SIDE_V: 2.84
+  response: 7E8046211448E
+- expected_values:
+    BUICK_CABIN_AC_HIGH_SIDE_V: 2.92
+  response: '7E80462114492'
+- expected_values:
+    BUICK_CABIN_AC_HIGH_SIDE_V: 2.96
+  response: '7E80462114494'
+- expected_values:
+    BUICK_CABIN_AC_HIGH_SIDE_V: 3.3
+  response: 7E804621144A5
