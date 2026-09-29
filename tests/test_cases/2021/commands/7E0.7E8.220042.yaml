@@ -1,26 +1,11 @@
 command_id: 7E0.7E8.220042
 test_cases:
 - expected_values:
+    BUICK_M_CTRL_MODULE_V: 0
+  response: '7E8056200420000'
+- expected_values:
     BUICK_M_CTRL_MODULE_V: 12.276
   response: 7E8056200422FF4
 - expected_values:
-    BUICK_M_CTRL_MODULE_V: 12.326
-  response: '7E8056200423026'
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 12.351
-  response: 7E805620042303F
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 12.375
-  response: '7E8056200423057'
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 12.401
-  response: '7E8056200423071'
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 12.425
-  response: '7E8056200423089'
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 12.5
-  response: 7E80562004230D4
-- expected_values:
-    BUICK_M_CTRL_MODULE_V: 13.322
-  response: 7E805620042340A
+    BUICK_M_CTRL_MODULE_V: 13.646
+  response: 7E805620042354E
