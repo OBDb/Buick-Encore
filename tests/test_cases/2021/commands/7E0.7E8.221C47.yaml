@@ -10,6 +10,9 @@ test_cases:
     BUICK_14V_POWER_MODULE_V: 12.8
   response: 7E804621C4780
 - expected_values:
+    BUICK_14V_POWER_MODULE_V: 12.9
+  response: 7E804621C4781
+- expected_values:
     BUICK_14V_POWER_MODULE_V: 13.9
   response: 7E804621C478B
 - expected_values:
