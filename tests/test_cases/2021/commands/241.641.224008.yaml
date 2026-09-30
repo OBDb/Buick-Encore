@@ -1,0 +1,5 @@
+command_id: 241.641.224008
+test_cases:
+- expected_values:
+    BUICK_TID_RL: 2045697214
+  response: 6410762400879EEDCBE
