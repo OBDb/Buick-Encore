@@ -4,5 +4,8 @@ test_cases:
     BUICK_MIS_HISTORY_2: 0
   response: '7E8056212020000'
 - expected_values:
+    BUICK_MIS_HISTORY_2: 1
+  response: '7E8056212020001'
+- expected_values:
     BUICK_MIS_HISTORY_2: 2
   response: '7E8056212020002'
