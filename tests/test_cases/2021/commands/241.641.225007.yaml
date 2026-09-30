@@ -15,3 +15,6 @@ test_cases:
 - expected_values:
     BUICK_TP_RR: 222.75
   response: 641056250070DEC
+- expected_values:
+    BUICK_TP_RR: 225.5
+  response: '641056250070E18'
