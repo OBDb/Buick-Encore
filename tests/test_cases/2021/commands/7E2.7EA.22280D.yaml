@@ -4,5 +4,5 @@ test_cases:
     BUICK_ATF_T_VAR_6: 71
   response: 7EA0462280D6F
 - expected_values:
-    BUICK_ATF_T_VAR_6: 87
-  response: 7EA0462280D7F
+    BUICK_ATF_T_VAR_6: 91
+  response: 7EA0462280D83

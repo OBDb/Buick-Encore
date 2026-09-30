@@ -4,5 +4,5 @@ test_cases:
     BUICK_FLI: 12.15686
   response: 7E80462002F1F
 - expected_values:
-    BUICK_FLI: 22.7451
-  response: 7E80462002F3A
+    BUICK_FLI: 46.66667
+  response: 7E80462002F77

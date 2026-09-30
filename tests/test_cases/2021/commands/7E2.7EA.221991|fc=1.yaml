@@ -4,11 +4,11 @@ test_cases:
     BUICK_TC_SLIP_VSS: 9.5
   response: 7EA05621991004C
 - expected_values:
-    BUICK_TC_SLIP_VSS: 191.625
-  response: 7EA0562199105FD
+    BUICK_TC_SLIP_VSS: 32.875
+  response: 7EA056219910107
 - expected_values:
-    BUICK_TC_SLIP_VSS: 228.875
-  response: 7EA056219910727
+    BUICK_TC_SLIP_VSS: 127.625
+  response: 7EA0562199103FD
 - expected_values:
-    BUICK_TC_SLIP_VSS: -1.625
-  response: 7EA05621991FFF3
+    BUICK_TC_SLIP_VSS: -16.5
+  response: 7EA05621991FF7C
