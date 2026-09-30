@@ -9,3 +9,6 @@ test_cases:
 - expected_values:
     BUICK_MIS_HISTORY_3: 2
   response: '7E8056212030002'
+- expected_values:
+    BUICK_MIS_HISTORY_3: 4
+  response: '7E8056212030004'

@@ -7,5 +7,8 @@ test_cases:
     BUICK_TOTAL_MISFIRE: 2
   response: '7E80462120002'
 - expected_values:
+    BUICK_TOTAL_MISFIRE: 4
+  response: '7E80462120004'
+- expected_values:
     BUICK_TOTAL_MISFIRE: 6
   response: '7E80462120006'
