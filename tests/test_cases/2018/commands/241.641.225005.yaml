@@ -1,8 +1,14 @@
 command_id: 241.641.225005
 test_cases:
 - expected_values:
+    BUICK_TP_FL: 275
+  response: '641056250051130'
+- expected_values:
     BUICK_TP_FL: 277.75
   response: 64105625005115C
 - expected_values:
     BUICK_TP_FL: 280.5
   response: '641056250051188'
+- expected_values:
+    BUICK_TP_FL: 288.75
+  response: 64105625005120C

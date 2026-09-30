@@ -16,8 +16,17 @@ test_cases:
     BUICK_AIR_TEMP_AMBIENT_2: 13
   response: 7E80462232C35
 - expected_values:
+    BUICK_AIR_TEMP_AMBIENT_2: 23
+  response: 7E80462232C3F
+- expected_values:
     BUICK_AIR_TEMP_AMBIENT_2: 33
   response: 7E80462232C49
+- expected_values:
+    BUICK_AIR_TEMP_AMBIENT_2: 43
+  response: 7E80462232C53
+- expected_values:
+    BUICK_AIR_TEMP_AMBIENT_2: 44
+  response: 7E80462232C54
 - expected_values:
     BUICK_AIR_TEMP_AMBIENT_2: 57
   response: 7E80462232C61

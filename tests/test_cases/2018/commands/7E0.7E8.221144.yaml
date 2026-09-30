@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221144
 test_cases:
 - expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 1.28
-  response: '7E80462114440'
+    BUICK_CABIN_AC_HIGH_SIDE_V: 1.26
+  response: 7E8046211443F
 - expected_values:
     BUICK_CABIN_AC_HIGH_SIDE_V: 3.3
   response: 7E804621144A5
