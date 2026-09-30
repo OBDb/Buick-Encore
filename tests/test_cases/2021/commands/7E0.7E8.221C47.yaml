@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221C47
 test_cases:
 - expected_values:
-    BUICK_14V_POWER_MODULE_V: 12.6
-  response: 7E804621C477E
+    BUICK_14V_POWER_MODULE_V: 0
+  response: 7E804621C4700
 - expected_values:
     BUICK_14V_POWER_MODULE_V: 14.2
   response: 7E804621C478E
