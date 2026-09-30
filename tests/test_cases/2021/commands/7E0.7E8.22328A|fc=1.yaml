@@ -1,11 +1,14 @@
 command_id: 7E0.7E8.22328A|fc=1
 test_cases:
 - expected_values:
+    BUICK_BP_DES: 23.25
+  response: 7E80562328A0915
+- expected_values:
     BUICK_BP_DES: 28.13
   response: 7E80562328A0AFD
 - expected_values:
     BUICK_BP_DES: 56.32
   response: 7E80562328A1600
 - expected_values:
-    BUICK_BP_DES: 141.87
-  response: 7E80562328A376B
+    BUICK_BP_DES: 154
+  response: 7E80562328A3C28
