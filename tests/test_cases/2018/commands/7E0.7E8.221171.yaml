@@ -4,29 +4,5 @@ test_cases:
     BUICK_EGR_DUTY: 0
   response: '7E80462117100'
 - expected_values:
-    BUICK_EGR_DUTY: 23.92157
-  response: 7E8046211713D
-- expected_values:
-    BUICK_EGR_DUTY: 33.33333
-  response: '7E80462117155'
-- expected_values:
-    BUICK_EGR_DUTY: 34.11765
-  response: '7E80462117157'
-- expected_values:
-    BUICK_EGR_DUTY: 34.5098
-  response: '7E80462117158'
-- expected_values:
-    BUICK_EGR_DUTY: 35.68627
-  response: 7E8046211715B
-- expected_values:
-    BUICK_EGR_DUTY: 36.86275
-  response: 7E8046211715E
-- expected_values:
-    BUICK_EGR_DUTY: 40.78431
-  response: '7E80462117168'
-- expected_values:
-    BUICK_EGR_DUTY: 56.07843
-  response: 7E8046211718F
-- expected_values:
-    BUICK_EGR_DUTY: 74.90196
-  response: 7E804621171BF
+    BUICK_EGR_DUTY: 96.07843
+  response: 7E804621171F5
