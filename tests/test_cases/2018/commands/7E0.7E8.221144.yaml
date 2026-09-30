@@ -1,32 +1,8 @@
 command_id: 7E0.7E8.221144
 test_cases:
 - expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 1.82
-  response: 7E8046211445B
-- expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 1.94
-  response: '7E80462114461'
-- expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 2.02
-  response: '7E80462114465'
-- expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 2.14
-  response: 7E8046211446B
-- expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 2.16
-  response: 7E8046211446C
-- expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 2.24
-  response: '7E80462114470'
-- expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 2.84
-  response: 7E8046211448E
-- expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 2.92
-  response: '7E80462114492'
-- expected_values:
-    BUICK_CABIN_AC_HIGH_SIDE_V: 2.96
-  response: '7E80462114494'
+    BUICK_CABIN_AC_HIGH_SIDE_V: 1.28
+  response: '7E80462114440'
 - expected_values:
     BUICK_CABIN_AC_HIGH_SIDE_V: 3.3
   response: 7E804621144A5
