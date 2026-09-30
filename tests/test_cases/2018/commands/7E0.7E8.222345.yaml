@@ -4,3 +4,9 @@ test_cases:
     BUICK_EOP: 0
     BUICK_EOP_ACT: 0
   response: '7E80462234500'
+- expected_values:
+    BUICK_EOP: 0
+    BUICK_EOP_ACT: 0
+  response: |-
+    7E80462234500
+    7E8056224720000
