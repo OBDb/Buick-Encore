@@ -12,3 +12,9 @@ test_cases:
 - expected_values:
     BUICK_TP_FL: 231
   response: '641056250050E70'
+- expected_values:
+    BUICK_TP_FL: 233.75
+  response: 641056250050E9C
+- expected_values:
+    BUICK_TP_FL: 236.5
+  response: 641056250050EC8
