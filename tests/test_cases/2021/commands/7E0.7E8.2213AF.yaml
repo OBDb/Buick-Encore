@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2213AF
 test_cases:
 - expected_values:
-    BUICK_COOLING_FAN_MOTOR_CMD: 0
+    ENCORE_COOLING_FAN_MOTOR_CMD: 0
   response: 7E8046213AF00
 - expected_values:
-    BUICK_COOLING_FAN_MOTOR_CMD: 100
+    ENCORE_COOLING_FAN_MOTOR_CMD: 100
   response: 7E8046213AFFF

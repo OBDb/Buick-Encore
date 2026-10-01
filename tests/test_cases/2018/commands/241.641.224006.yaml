@@ -1,5 +1,5 @@
 command_id: 241.641.224006
 test_cases:
 - expected_values:
-    BUICK_TID_FR: 2038789953
+    ENCORE_TID_FR: 2038789953
   response: '6410762400679857741'

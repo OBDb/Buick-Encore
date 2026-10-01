@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.221207
 test_cases:
 - expected_values:
-    BUICK_MISFIRES_C3_CUR: 0
+    ENCORE_MISFIRES_C3_CUR: 0
   response: '7E80462120700'
 - expected_values:
-    BUICK_MISFIRES_C3_CUR: 1
+    ENCORE_MISFIRES_C3_CUR: 1
   response: '7E80462120701'
 - expected_values:
-    BUICK_MISFIRES_C3_CUR: 2
+    ENCORE_MISFIRES_C3_CUR: 2
   response: '7E80462120702'
