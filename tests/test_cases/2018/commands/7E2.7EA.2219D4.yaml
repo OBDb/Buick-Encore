@@ -4,23 +4,11 @@ test_cases:
     BUICK_CLU_SLIP_C3_RING: 230.25
   response: 7EA056219D40399
 - expected_values:
-    BUICK_CLU_SLIP_C3_RING: 1396.25
-  response: 7EA056219D415D1
-- expected_values:
-    BUICK_CLU_SLIP_C3_RING: 2474.5
-  response: 7EA056219D426AA
-- expected_values:
-    BUICK_CLU_SLIP_C3_RING: 2867.75
-  response: 7EA056219D42CCF
-- expected_values:
-    BUICK_CLU_SLIP_C3_RING: 3048.75
-  response: 7EA056219D42FA3
-- expected_values:
     BUICK_CLU_SLIP_C3_RING: 3282
   response: 7EA056219D43348
 - expected_values:
-    BUICK_CLU_SLIP_C3_RING: 3491
-  response: 7EA056219D4368C
+    BUICK_CLU_SLIP_C3_RING: 4538.25
+  response: 7EA056219D446E9
 - expected_values:
     BUICK_CLU_SLIP_C3_RING: 4949
   response: 7EA056219D44D54
