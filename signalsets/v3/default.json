@@ -309,7 +309,7 @@
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "232C"}, "freq": 5, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
   "signals": [
-    {"id": "ENCORE_AIR_TEMP_AMBIENT_2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "unit": "celsius" }, "name": "Ambient air temperature 2"}
+    {"id": "ENCORE_AIR_TEMP_AMBIENT_2", "path": "Engine", "fmt": { "len": 8, "max": 215, "min": -40, "add": -40, "nullmin": -40, "nullmax": 214, "unit": "celsius" }, "name": "Ambient air temperature 2"}
   ]},
 { "hdr": "7E0", "rax": "7E8", "cmd": {"22": "2344"}, "freq": 1, "dbgfilter": { "to": 2017, "years": [2019, 2020], "from": 2022 },
   "signals": [
