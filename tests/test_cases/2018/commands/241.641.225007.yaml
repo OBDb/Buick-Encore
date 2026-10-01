@@ -1,17 +1,17 @@
 command_id: 241.641.225007
 test_cases:
 - expected_values:
-    BUICK_TP_RR: 269.5
+    ENCORE_TP_RR_241: 269.5
   response: 6410562500710D8
 - expected_values:
-    BUICK_TP_RR: 272.25
+    ENCORE_TP_RR_241: 272.25
   response: '641056250071104'
 - expected_values:
-    BUICK_TP_RR: 277.75
+    ENCORE_TP_RR_241: 277.75
   response: 64105625007115C
 - expected_values:
-    BUICK_TP_RR: 283.25
+    ENCORE_TP_RR_241: 283.25
   response: 6410562500711B4
 - expected_values:
-    BUICK_TP_RR: 286
+    ENCORE_TP_RR_241: 286
   response: '6410562500711E0'
