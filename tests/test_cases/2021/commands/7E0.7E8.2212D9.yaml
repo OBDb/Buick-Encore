@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.2212D9
 test_cases:
 - expected_values:
-    BUICK_TOTAL_KNOCK_RETARD: 0
+    ENCORE_TOTAL_KNOCK_RETARD: 0
   response: 7E8046212D900
 - expected_values:
-    BUICK_TOTAL_KNOCK_RETARD: 7.65
+    ENCORE_TOTAL_KNOCK_RETARD: 7.65
   response: 7E8046212D911

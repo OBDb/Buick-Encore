@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22002F|fc=1
 test_cases:
 - expected_values:
-    BUICK_FLI: 12.15686
+    ENCORE_FLI: 12.15686
   response: 7E80462002F1F
 - expected_values:
-    BUICK_FLI: 46.66667
+    ENCORE_FLI: 46.66667
   response: 7E80462002F77

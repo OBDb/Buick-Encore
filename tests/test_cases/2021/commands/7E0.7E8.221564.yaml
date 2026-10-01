@@ -1,10 +1,8 @@
 command_id: 7E0.7E8.221564
 test_cases:
 - expected_values:
-    BUICK_AC_HIGH_SIDE_P: 109.08
-    BUICK_CABIN_AC_HIGH_SIDE_P: 54
+    ENCORE_AC_HIGH_SIDE_P: 109.08
   response: '7E80462156436'
 - expected_values:
-    BUICK_AC_HIGH_SIDE_P: 262.6
-    BUICK_CABIN_AC_HIGH_SIDE_P: 130
+    ENCORE_AC_HIGH_SIDE_P: 262.6
   response: '7E80462156482'

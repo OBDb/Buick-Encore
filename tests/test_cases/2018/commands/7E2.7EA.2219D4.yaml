@@ -1,14 +1,14 @@
 command_id: 7E2.7EA.2219D4
 test_cases:
 - expected_values:
-    BUICK_CLU_SLIP_C3_RING: 230.25
+    ENCORE_CLU_SLIP_C3_RING: 230.25
   response: 7EA056219D40399
 - expected_values:
-    BUICK_CLU_SLIP_C3_RING: 3282
+    ENCORE_CLU_SLIP_C3_RING: 3282
   response: 7EA056219D43348
 - expected_values:
-    BUICK_CLU_SLIP_C3_RING: 4538.25
+    ENCORE_CLU_SLIP_C3_RING: 4538.25
   response: 7EA056219D446E9
 - expected_values:
-    BUICK_CLU_SLIP_C3_RING: 4949
+    ENCORE_CLU_SLIP_C3_RING: 4949
   response: 7EA056219D44D54

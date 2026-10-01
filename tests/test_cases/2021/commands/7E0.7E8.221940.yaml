@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.221940
 test_cases:
 - expected_values:
-    BUICK_ATF_T_VAR_1: 36
+    ENCORE_ATF_T_VAR_1: 36
   response: 7E8046219404C
 - expected_values:
-    BUICK_ATF_T_VAR_1: 87
+    ENCORE_ATF_T_VAR_1: 87
   response: 7E8046219407F
