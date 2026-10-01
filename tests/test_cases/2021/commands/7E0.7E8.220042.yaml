@@ -1,11 +1,11 @@
 command_id: 7E0.7E8.220042
 test_cases:
 - expected_values:
-    BUICK_M_CTRL_MODULE_V: 0
+    ENCORE_M_CTRL_MODULE_V: 0
   response: '7E8056200420000'
 - expected_values:
-    BUICK_M_CTRL_MODULE_V: 13.82
+    ENCORE_M_CTRL_MODULE_V: 13.82
   response: 7E80562004235FC
 - expected_values:
-    BUICK_M_CTRL_MODULE_V: 13.845
+    ENCORE_M_CTRL_MODULE_V: 13.845
   response: '7E8056200423615'

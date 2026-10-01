@@ -1,5 +1,0 @@
-command_id: 7E0.7E8.221C43
-test_cases:
-- expected_values:
-    BUICK_H2_ELECTRONICS_T: 150
-  response: 7E804621C43BE

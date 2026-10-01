@@ -1,59 +1,59 @@
 command_id: 7E0.7E8.22000D
 test_cases:
 - expected_values:
-    BUICK_VSS: 38
+    ENCORE_VSS: 38
   response: '7E8 04 62 00 0D 26 '
 - expected_values:
-    BUICK_VSS: 48
+    ENCORE_VSS: 48
   response: '7E8 04 62 00 0D 30 '
 - expected_values:
-    BUICK_VSS: 0
+    ENCORE_VSS: 0
   response: 7E80462000D00
 - expected_values:
-    BUICK_VSS: 0
+    ENCORE_VSS: 0
   response: |-
     7E80462000D00
     7E80462247900
 - expected_values:
-    BUICK_VSS: 0
+    ENCORE_VSS: 0
   response: |-
     7E80462000D00
     7E8056224720000
 - expected_values:
-    BUICK_VSS: 5
+    ENCORE_VSS: 5
   response: |-
     7E80462000D05
     7E803520100
 - expected_values:
-    BUICK_VSS: 5
+    ENCORE_VSS: 5
   response: |-
     7E80462000D05
     7E8046200463D
 - expected_values:
-    BUICK_VSS: 5
+    ENCORE_VSS: 5
   response: |-
     7E80462000D05
     7E8056224750000
 - expected_values:
-    BUICK_VSS: 13
+    ENCORE_VSS: 13
   response: |-
     7E80462000D0D
     7E8065AC100C189C6
 - expected_values:
-    BUICK_VSS: 15
+    ENCORE_VSS: 15
   response: |-
     7E80462000D0F
     7E8056224720000
 - expected_values:
-    BUICK_VSS: 16
+    ENCORE_VSS: 16
   response: |-
     7E80462000D10
     7E80462004650
 - expected_values:
-    BUICK_VSS: 19
+    ENCORE_VSS: 19
   response: |-
     7E80462000D13
     7E803520100
 - expected_values:
-    BUICK_VSS: 138
+    ENCORE_VSS: 138
   response: 7E80462000D8A
