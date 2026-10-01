@@ -1,8 +1,8 @@
 command_id: 7E0.7E8.22232C
 test_cases:
 - expected_values:
-    ENCORE_AIR_TEMP_AMBIENT_2: -39
-  response: 7E80462232C01
+    ENCORE_AIR_TEMP_AMBIENT_2: null
+  response: 7E80462232C00
 - expected_values:
-    ENCORE_AIR_TEMP_AMBIENT_2: 112
-  response: 7E80462232C98
+    ENCORE_AIR_TEMP_AMBIENT_2: null
+  response: 7E80462232CFE
