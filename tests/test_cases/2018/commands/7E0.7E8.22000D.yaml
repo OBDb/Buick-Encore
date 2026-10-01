@@ -55,5 +55,5 @@ test_cases:
     7E80462000D13
     7E803520100
 - expected_values:
-    ENCORE_VSS: 138
-  response: 7E80462000D8A
+    ENCORE_VSS: null
+  response: 7E80462000DFF
