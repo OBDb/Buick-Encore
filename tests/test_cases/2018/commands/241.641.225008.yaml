@@ -10,5 +10,8 @@ test_cases:
     BUICK_TP_RL: 283.25
   response: 6410562500811B4
 - expected_values:
+    BUICK_TP_RL: 291.5
+  response: '641056250081238'
+- expected_values:
     BUICK_TP_RL: 294.25
   response: '641056250081264'

@@ -4,5 +4,5 @@ test_cases:
     BUICK_HEATED_OXYGEN_SENS: 0
   response: '7E80462114500'
 - expected_values:
-    BUICK_HEATED_OXYGEN_SENS: 206
-  response: 7E804621145CE
+    BUICK_HEATED_OXYGEN_SENS: 213
+  response: 7E804621145D5

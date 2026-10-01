@@ -4,8 +4,8 @@ test_cases:
     BUICK_BP_DES: 29.64
   response: 7E80562328A0B94
 - expected_values:
-    BUICK_BP_DES: 46.03
-  response: 7E80562328A11FB
+    BUICK_BP_DES: 58.86
+  response: 7E80562328A16FE
 - expected_values:
     BUICK_BP_DES: 128.03
   response: 7E80562328A3203

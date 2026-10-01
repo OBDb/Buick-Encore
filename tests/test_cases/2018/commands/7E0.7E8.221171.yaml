@@ -4,5 +4,5 @@ test_cases:
     BUICK_EGR_DUTY: 0
   response: '7E80462117100'
 - expected_values:
-    BUICK_EGR_DUTY: 96.07843
-  response: 7E804621171F5
+    BUICK_EGR_DUTY: 99.60784
+  response: 7E804621171FE
