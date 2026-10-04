@@ -10,6 +10,7 @@ supported_commands_by_ecu:
   - 241.641.225007:ENCORE_TP_RR_241
   - 241.641.225008:ENCORE_TP_RL_241
   "7DF":
+  - 7DF.0106
   - 7DF.0110
   - 7DF.012F
   - 7DF.0131
